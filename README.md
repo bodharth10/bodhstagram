@@ -14,10 +14,6 @@
 
 # Setup
 
-Clone:
-
-    git clone -b tutorial-start git@github.com:rodloboz/railstagram.git
-
 Setup database and seeds:
 
     bundle exec rails db:create db:migrate db:seed
