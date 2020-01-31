@@ -1,4 +1,4 @@
-## Railstagram: Instagram Clone
+## Bodhstagram: Instagram Clone
 
 # Stack
 
